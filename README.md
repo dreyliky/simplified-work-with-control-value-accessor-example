@@ -1,4 +1,7 @@
-# SimplifiedWorkWithControlValueAccessorExample
+# ControlValueAccessor
+
+### Check video on Youtube about this example project
+[![CHECK YOUTUBE VIDEO](https://img.youtube.com/vi/5xxMBOE3LNs/0.jpg)](https://www.youtube.com/watch?v=5xxMBOE3LNs)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
 
